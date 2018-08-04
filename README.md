@@ -1,2 +1,2 @@
 # greetr
-A practice framework that adaptable greets users in a language of choice
+>An adaptable framework that greets users in their language of choice
